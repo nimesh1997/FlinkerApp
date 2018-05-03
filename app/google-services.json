@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "724334270263",
+    "firebase_url": "https://flinker-12592.firebaseio.com",
+    "project_id": "flinker-12592",
+    "storage_bucket": "flinker-12592.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724334270263:android:b2c3efafa2414ffa",
+        "android_client_info": {
+          "package_name": "com.example.nimesh.flinker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724334270263-c3ba0gbb84q21160eup0b6f32coqfnfd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nimesh.flinker",
+            "certificate_hash": "d13ae50480281b95ffedac6f9542d6206ffb4835"
+          }
+        },
+        {
+          "client_id": "724334270263-jcd8isd4k99fnj2nik6jt32cqekimigk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC07Gz9vEc5kEf7Vv8i_2QENsESJIFtCHs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724334270263-jcd8isd4k99fnj2nik6jt32cqekimigk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
