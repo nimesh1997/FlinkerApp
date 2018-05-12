@@ -9,18 +9,12 @@ import android.view.ViewGroup;
 
 import com.example.nimesh.flinker.R;
 
-/**
- * Created by User on 5/28/2017.
- */
 
 public class CameraFragment extends Fragment {
     private static final String TAG = "CameraFragment";
-
-    @Nullable
     @Override
-    public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
+    public View onCreateView(LayoutInflater inflater,ViewGroup container,Bundle savedInstanceState) {
         View view = inflater.inflate(R.layout.fragment_camera, container, false);
-
         return view;
     }
 }
